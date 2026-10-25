@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Made with little hearts for YUHA and TORAMUI"><title>Made with little hearts for YUHA and TORAMUI</title><defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e7bdc4" opacity=".26"/></pattern><filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#956078" flood-opacity=".13"/></filter></defs><g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" fill="#705354">
+  <rect width="1200" height="140" rx="24" fill="#fff5f5"/>
+  <path d="M46 70H310M890 70H1154" stroke="#e9c6d0" stroke-dasharray="4 7"/>
+  <path transform="translate(353 72) scale(0.8)" d="M0 7C-12-1-14-10-7-12C-3-14 0-10 0-8C1-11 6-14 10-11C17-6 9 1 0 7Z" fill="#e8a1ba"/><path transform="translate(846 72) scale(0.8)" d="M0 7C-12-1-14-10-7-12C-3-14 0-10 0-8C1-11 6-14 10-11C17-6 9 1 0 7Z" fill="#e8a1ba"/>
+  <text x="600" y="64" text-anchor="middle" font-family="Georgia,serif" font-style="italic" font-size="25" fill="#a2607d">Made with little hearts.</text>
+  <text x="600" y="95" text-anchor="middle" font-size="14" letter-spacing="2" fill="#b58a98">FOR YUHA · TORAMUI · AND YOUR EVERYDAY</text>
+</g></svg>

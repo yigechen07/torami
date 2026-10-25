@@ -1,0 +1,64 @@
+{
+  "name": "torami-desktop-pet",
+  "productName": "兔岚咪",
+  "version": "0.5.1",
+  "description": "一只在桌面上陪着你的兔岚咪。",
+  "author": "Torami Project",
+  "license": "MIT",
+  "private": true,
+  "main": "src/main.cjs",
+  "scripts": {
+    "prepare:app": "node scripts/prepare.cjs",
+    "native": "node scripts/build-native.cjs",
+    "icons": "npm run native && npm run prepare:app && electron scripts/build-icons.cjs",
+    "start": "npm run icons && electron .",
+    "test": "node --test test/*.test.cjs",
+    "check": "node scripts/check.cjs",
+    "smoke": "npm run icons && electron . --smoke-test",
+    "package": "npm run icons && electron-builder --mac --dir --arm64",
+    "dist": "npm run icons && electron-builder --mac dmg --arm64"
+  },
+  "devDependencies": {
+    "electron": "45.0.0",
+    "electron-builder": "26.15.3"
+  },
+  "build": {
+    "appId": "com.torami.desktop-pet",
+    "productName": "兔岚咪",
+    "artifactName": "Torami-${version}-${arch}.${ext}",
+    "directories": {
+      "output": "release"
+    },
+    "files": [
+      "src/**/*",
+      "build/*.png",
+      "package.json",
+      "LICENSE",
+      "THIRD_PARTY_NOTICES.md",
+      "!src/pet/index.template.html"
+    ],
+    "asar": true,
+    "extraResources": [
+      {
+        "from": "build/window-surfaces",
+        "to": "window-surfaces"
+      }
+    ],
+    "mac": {
+      "category": "public.app-category.entertainment",
+      "icon": "build/icon.png",
+      "target": [
+        {
+          "target": "dmg",
+          "arch": [
+            "arm64"
+          ]
+        }
+      ],
+      "identity": null,
+      "extendInfo": {
+        "LSUIElement": true
+      }
+    }
+  }
+}

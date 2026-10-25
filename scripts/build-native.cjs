@@ -1,0 +1,14 @@
+'use strict';
+const { spawnSync } = require('node:child_process');
+const fs = require('node:fs');
+const os = require('node:os');
+const path = require('node:path');
+if (process.platform !== 'darwin') process.exit(0);
+const root = path.join(__dirname, '..');
+const target = path.join(root, 'build/window-surfaces');
+const source = path.join(root, 'native/window-surfaces.swift');
+fs.mkdirSync(path.dirname(target), { recursive: true });
+if (fs.existsSync(target) && fs.statSync(target).mtimeMs > fs.statSync(source).mtimeMs) process.exit(0);
+const arch = process.arch === 'arm64' ? 'arm64' : 'x86_64';
+const result = spawnSync('xcrun', ['swiftc', '-O', '-target', `${arch}-apple-macos13.0`, '-module-cache-path', path.join(os.tmpdir(), 'torami-swift-cache'), source, '-o', target], { stdio: 'inherit' });
+if (result.status !== 0) process.exit(result.status || 1);

@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; img-src 'self' data:; media-src 'self'; style-src 'self'; script-src 'self'; connect-src 'none'; object-src 'none'; base-uri 'none'; form-action 'none'" />
+  <title>兔岚咪 · 今天也陪着你</title>
+  <link rel="stylesheet" href="pet.css" />
+</head>
+<body>
+  <main id="pet" data-mode="idle" aria-label="兔岚咪桌宠">
+    <div id="bubble" role="status" aria-live="polite"><span id="bubble-text"></span><i></i></div>
+    <div class="ground-shadow" aria-hidden="true"></div>
+    <button id="character" aria-label="摸摸兔岚咪；拖动可以拎起来，右键打开菜单" title="摸摸我 ♡ · 右键打开小菜单">
+      <div id="sprite">%CHARACTER%</div>
+    </button>
+    <div id="effects" aria-hidden="true"></div>
+    <output id="statistics" aria-label="兔岚咪统计" hidden></output>
+    <div class="dream" aria-hidden="true"><span>z</span><span>z</span><span>Z</span></div>
+    <button id="menu-button" aria-label="打开兔岚咪的小菜单" title="小菜单">···</button>
+  </main>
+  <audio id="hmph-audio" src="../assets/audio/yuha-hmph.wav" preload="auto"></audio>
+  <script src="i18n.js"></script>
+  <script src="performance.js"></script>
+  <script src="pet.js"></script>
+</body>
+</html>

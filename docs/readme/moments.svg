@@ -1,0 +1,247 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="496" viewBox="0 0 1200 496" role="img" aria-label="兔岚咪的三种小心情：陪伴、害羞和 YUHA 生气了哼"><title>兔岚咪的三种小心情：陪伴、害羞和 YUHA 生气了哼</title><defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e7bdc4" opacity=".26"/></pattern><filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#956078" flood-opacity=".13"/></filter></defs><g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" fill="#705354">
+  <rect x="24" y="8" width="360" height="470" rx="22" fill="#fffaf7" stroke="#eacfd4"/>
+  <text x="49" y="47" font-size="13" letter-spacing="1.6" fill="#ad7e8f">01 / HELLO, LITTLE HEART</text>
+  <rect x="41" y="68" width="326" height="293" rx="16" fill="#fbefea"/>
+  <ellipse cx="204" cy="332" rx="69" ry="8" fill="#e8cdd3"/>
+  <svg id="moment-0" x="88" y="84" width="232" height="268" viewBox="0 0 260 300"><style></style>
+  <defs>
+    <linearGradient id="moment-0-fur" x1="0" y1="0" x2="0.3" y2="1">
+      <stop stop-color="#fffefd"/><stop offset="1" stop-color="#fff4f0"/>
+    </linearGradient>
+    <linearGradient id="moment-0-ribbon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f8b6cd"/><stop offset="1" stop-color="#ec8db1"/>
+    </linearGradient>
+    <g id="moment-0-mitten" fill="url(#moment-0-fur)">
+      <path d="M-8 8C-13 6-14 1-11-3C-12-8-8-12-4-9C-2-13 3-12 5-8C9-10 13-7 12-3C16 1 13 7 9 9C4 12-3 12-8 8Z"/>
+      <path d="m-4-3v3m7-3v3" fill="none" stroke-width="1.8"/>
+    </g>
+  </defs>
+  <g stroke="#786452" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <g class="ear ear-left">
+      <path fill="url(#moment-0-fur)" d="M72 119C50 108 44 92 46 76C40 62 43 44 53 35C51 18 61 7 75 9C95 9 103 24 99 40C105 55 98 69 96 81C99 98 90 111 86 120Z"/>
+      <path fill="#f5b8ce" stroke="none" d="M67 100C60 83 56 66 64 57C73 48 85 52 87 62C89 74 78 95 77 106Z"/>
+    </g>
+    <g class="ear ear-right">
+      <path fill="url(#moment-0-fur)" d="M165 121C173 94 186 80 202 78C217 62 234 66 241 80C256 88 253 108 240 114C236 131 220 134 209 133C196 144 182 135 171 136Z"/>
+      <path fill="#f5b8ce" stroke="none" d="M186 119C193 106 205 94 216 96C228 99 226 111 218 116C211 122 195 123 188 127Z"/>
+    </g>
+    <g class="little-body">
+      <g class="feet"><ellipse fill="url(#moment-0-fur)" cx="113" cy="266" rx="16" ry="17"/>
+      <ellipse fill="url(#moment-0-fur)" cx="146" cy="266" rx="16" ry="17"/></g>
+      <g class="arm arm-left"><path fill="url(#moment-0-fur)" d="M101 222C83 211 68 223 73 237C76 247 90 249 98 240Z"/></g>
+      <g class="arm arm-right"><path fill="url(#moment-0-fur)" d="M157 221C174 212 188 225 182 238C178 248 167 248 159 240Z"/></g>
+      <path fill="url(#moment-0-fur)" d="M99 218C96 233 93 246 103 255C115 267 148 268 159 254C166 244 162 227 159 218Z"/>
+      <path fill="#fff" stroke="none" d="M114 235C115 227 146 227 149 240C152 254 112 258 114 235Z"/>
+    </g>
+    <g class="head">
+      <path fill="url(#moment-0-fur)" d="M131 110C105 107 77 115 63 132C49 146 45 165 47 182C47 210 79 230 129 231C177 232 209 211 211 182C214 159 204 139 188 126C173 115 151 109 131 110Z"/>
+      <g class="cheeks" fill="#f3acc9" stroke="none"><ellipse cx="76" cy="190" rx="12" ry="10"/><ellipse cx="181" cy="190" rx="12" ry="10"/></g>
+      <g class="eyes-open">
+        <g fill="#695642"><ellipse cx="93" cy="174" rx="9" ry="11"/><ellipse cx="164" cy="174" rx="9" ry="11"/></g>
+        <path d="m87 165-5-5m88 5 5-5" fill="none"/>
+        <g fill="#fff" stroke="none"><ellipse cx="95" cy="170" rx="3.1" ry="2.8"/><ellipse cx="162" cy="170" rx="3.1" ry="2.8"/></g>
+        <g fill="#efacc7" stroke="none"><circle cx="94" cy="179" r="2.8"/><circle cx="163" cy="179" r="2.8"/></g>
+      </g>
+      <g class="eyes-closed" opacity="0" fill="none"><path d="M84 175q9 10 18 0m53 0q9 10 18 0"/></g>
+      <g class="eyes-happy" opacity="0" fill="none"><path d="M84 176q9-14 18 0m53 0q9-14 18 0"/></g>
+      <g class="eyes-angry" opacity="0" fill="none"><path d="m84 173 18 4m53 0 18-4" stroke-width="3.6"/><path d="m86 160 12 4m61 0 12-4" stroke-width="2.7"/></g>
+      <ellipse fill="#efa3bf" stroke="none" cx="129" cy="183" rx="5.4" ry="4.4"/>
+      <path class="mouth-normal" d="M116 192q5 10 13 3q8 7 13-3" fill="none" stroke-width="3.6"/>
+      <path class="mouth-pout" opacity="0" d="M126 192q9 3 1 7q8 3-1 6" fill="none" stroke-width="3.2"/>
+      <ellipse class="mouth-surprised" opacity="0" cx="129" cy="198" rx="5" ry="6" fill="#fff" stroke-width="3"/>
+    </g>
+    <g class="gesture-arms" opacity="0" fill="url(#moment-0-fur)">
+      <path class="gesture-arm-left" d="M99 232C81 238 65 231 62 217C60 210 61 202 66 198C70 194 76 196 78 201C80 204 79 208 80 211C82 216 86 219 90 218C93 218 97 217 100 217C109 218 109 229 99 232Z"/>
+      <path class="gesture-arm-right" d="M161 232C179 238 195 231 198 217C200 210 199 202 194 198C190 194 184 196 182 201C180 204 181 208 180 211C178 216 174 219 170 218C167 218 163 217 160 217C151 218 151 229 161 232Z"/>
+    </g>
+    <g class="folded-ears" opacity="0">
+      <g class="folded-left">
+        <path fill="url(#moment-0-fur)" d="M77 121C61 118 45 129 51 145C56 154 66 158 70 160C67 176 80 190 93 188C108 194 121 181 117 167C121 154 107 143 98 139C99 128 89 120 77 121Z"/>
+        <path fill="#f5b8ce" stroke="none" d="M70 137C74 130 84 134 88 141C92 150 107 158 107 170C108 180 98 182 92 175C88 169 88 161 82 155C76 149 69 145 70 137Z"/>
+      </g>
+      <g class="folded-right">
+        <path fill="url(#moment-0-fur)" d="M179 131C194 122 211 128 213 142C217 156 204 166 197 169C200 184 184 199 171 194C153 199 141 184 146 170C144 157 156 148 167 143C165 137 172 132 179 131Z"/>
+        <path fill="#f5b8ce" stroke="none" d="M191 143C186 138 177 143 176 150C173 159 155 164 156 176C155 186 166 188 173 181C177 174 177 166 184 160C191 154 195 148 191 143Z"/>
+      </g>
+    </g>
+    <g class="ear-bow"><path fill="url(#moment-0-ribbon)" d="M73 112C53 95 48 106 50 119C41 132 50 140 67 131L80 123C98 133 105 121 100 111C102 96 89 94 82 108Z"/><circle fill="#fac2d4" cx="75" cy="119" r="8"/></g>
+    <g class="ear-bow"><path fill="url(#moment-0-ribbon)" d="M175 124C166 103 154 109 156 122C147 132 155 142 171 138L180 136C185 153 200 149 201 137C210 126 200 118 188 123Z"/><circle fill="#fac2d4" cx="179" cy="131" r="8"/></g>
+    <g class="gesture-hands" opacity="0">
+      <g class="gesture-hand-left"><use href="#moment-0-mitten" transform="translate(71 200) scale(.88)"/></g>
+      <g class="gesture-hand-right"><use href="#moment-0-mitten" transform="translate(189 200) scale(.88)"/></g>
+    </g>
+    <g class="neck-bow">
+      <path fill="url(#moment-0-ribbon)" d="m120 229-17 21 18 3 8-20 9 20 19-3-18-23Z"/>
+      <path fill="url(#moment-0-ribbon)" d="M122 222C103 203 95 217 100 227C94 241 107 247 124 234L133 235C152 249 166 238 159 226C164 212 151 207 136 222Z"/>
+      <circle fill="#fac2d4" cx="129" cy="228" r="8.3"/>
+      <path d="m114 224 5 3m21 0 6-3" stroke="#d884a6" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
+  <text x="204" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">今天也陪着你</text>
+  <text x="204" y="440" text-anchor="middle" font-size="16" fill="#aa818a">眨眨眼，晃晃耳朵。</text>
+
+  <rect x="420" y="8" width="360" height="470" rx="22" fill="#fffaf7" stroke="#eacfd4"/>
+  <text x="445" y="47" font-size="13" letter-spacing="1.6" fill="#ad7e8f">02 / A LITTLE SHY</text>
+  <rect x="437" y="68" width="326" height="293" rx="16" fill="#f9e8ee"/>
+  <ellipse cx="600" cy="332" rx="69" ry="8" fill="#e8cdd3"/>
+  <svg id="moment-1" x="484" y="84" width="232" height="268" viewBox="0 0 260 300"><style>#moment-1 .ear,#moment-1 .eyes-open{opacity:0}#moment-1 .folded-ears,#moment-1 .eyes-closed{opacity:1}</style>
+  <defs>
+    <linearGradient id="moment-1-fur" x1="0" y1="0" x2="0.3" y2="1">
+      <stop stop-color="#fffefd"/><stop offset="1" stop-color="#fff4f0"/>
+    </linearGradient>
+    <linearGradient id="moment-1-ribbon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f8b6cd"/><stop offset="1" stop-color="#ec8db1"/>
+    </linearGradient>
+    <g id="moment-1-mitten" fill="url(#moment-1-fur)">
+      <path d="M-8 8C-13 6-14 1-11-3C-12-8-8-12-4-9C-2-13 3-12 5-8C9-10 13-7 12-3C16 1 13 7 9 9C4 12-3 12-8 8Z"/>
+      <path d="m-4-3v3m7-3v3" fill="none" stroke-width="1.8"/>
+    </g>
+  </defs>
+  <g stroke="#786452" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <g class="ear ear-left">
+      <path fill="url(#moment-1-fur)" d="M72 119C50 108 44 92 46 76C40 62 43 44 53 35C51 18 61 7 75 9C95 9 103 24 99 40C105 55 98 69 96 81C99 98 90 111 86 120Z"/>
+      <path fill="#f5b8ce" stroke="none" d="M67 100C60 83 56 66 64 57C73 48 85 52 87 62C89 74 78 95 77 106Z"/>
+    </g>
+    <g class="ear ear-right">
+      <path fill="url(#moment-1-fur)" d="M165 121C173 94 186 80 202 78C217 62 234 66 241 80C256 88 253 108 240 114C236 131 220 134 209 133C196 144 182 135 171 136Z"/>
+      <path fill="#f5b8ce" stroke="none" d="M186 119C193 106 205 94 216 96C228 99 226 111 218 116C211 122 195 123 188 127Z"/>
+    </g>
+    <g class="little-body">
+      <g class="feet"><ellipse fill="url(#moment-1-fur)" cx="113" cy="266" rx="16" ry="17"/>
+      <ellipse fill="url(#moment-1-fur)" cx="146" cy="266" rx="16" ry="17"/></g>
+      <g class="arm arm-left"><path fill="url(#moment-1-fur)" d="M101 222C83 211 68 223 73 237C76 247 90 249 98 240Z"/></g>
+      <g class="arm arm-right"><path fill="url(#moment-1-fur)" d="M157 221C174 212 188 225 182 238C178 248 167 248 159 240Z"/></g>
+      <path fill="url(#moment-1-fur)" d="M99 218C96 233 93 246 103 255C115 267 148 268 159 254C166 244 162 227 159 218Z"/>
+      <path fill="#fff" stroke="none" d="M114 235C115 227 146 227 149 240C152 254 112 258 114 235Z"/>
+    </g>
+    <g class="head">
+      <path fill="url(#moment-1-fur)" d="M131 110C105 107 77 115 63 132C49 146 45 165 47 182C47 210 79 230 129 231C177 232 209 211 211 182C214 159 204 139 188 126C173 115 151 109 131 110Z"/>
+      <g class="cheeks" fill="#f3acc9" stroke="none"><ellipse cx="76" cy="190" rx="12" ry="10"/><ellipse cx="181" cy="190" rx="12" ry="10"/></g>
+      <g class="eyes-open">
+        <g fill="#695642"><ellipse cx="93" cy="174" rx="9" ry="11"/><ellipse cx="164" cy="174" rx="9" ry="11"/></g>
+        <path d="m87 165-5-5m88 5 5-5" fill="none"/>
+        <g fill="#fff" stroke="none"><ellipse cx="95" cy="170" rx="3.1" ry="2.8"/><ellipse cx="162" cy="170" rx="3.1" ry="2.8"/></g>
+        <g fill="#efacc7" stroke="none"><circle cx="94" cy="179" r="2.8"/><circle cx="163" cy="179" r="2.8"/></g>
+      </g>
+      <g class="eyes-closed" opacity="0" fill="none"><path d="M84 175q9 10 18 0m53 0q9 10 18 0"/></g>
+      <g class="eyes-happy" opacity="0" fill="none"><path d="M84 176q9-14 18 0m53 0q9-14 18 0"/></g>
+      <g class="eyes-angry" opacity="0" fill="none"><path d="m84 173 18 4m53 0 18-4" stroke-width="3.6"/><path d="m86 160 12 4m61 0 12-4" stroke-width="2.7"/></g>
+      <ellipse fill="#efa3bf" stroke="none" cx="129" cy="183" rx="5.4" ry="4.4"/>
+      <path class="mouth-normal" d="M116 192q5 10 13 3q8 7 13-3" fill="none" stroke-width="3.6"/>
+      <path class="mouth-pout" opacity="0" d="M126 192q9 3 1 7q8 3-1 6" fill="none" stroke-width="3.2"/>
+      <ellipse class="mouth-surprised" opacity="0" cx="129" cy="198" rx="5" ry="6" fill="#fff" stroke-width="3"/>
+    </g>
+    <g class="gesture-arms" opacity="0" fill="url(#moment-1-fur)">
+      <path class="gesture-arm-left" d="M99 232C81 238 65 231 62 217C60 210 61 202 66 198C70 194 76 196 78 201C80 204 79 208 80 211C82 216 86 219 90 218C93 218 97 217 100 217C109 218 109 229 99 232Z"/>
+      <path class="gesture-arm-right" d="M161 232C179 238 195 231 198 217C200 210 199 202 194 198C190 194 184 196 182 201C180 204 181 208 180 211C178 216 174 219 170 218C167 218 163 217 160 217C151 218 151 229 161 232Z"/>
+    </g>
+    <g class="folded-ears" opacity="0">
+      <g class="folded-left">
+        <path fill="url(#moment-1-fur)" d="M77 121C61 118 45 129 51 145C56 154 66 158 70 160C67 176 80 190 93 188C108 194 121 181 117 167C121 154 107 143 98 139C99 128 89 120 77 121Z"/>
+        <path fill="#f5b8ce" stroke="none" d="M70 137C74 130 84 134 88 141C92 150 107 158 107 170C108 180 98 182 92 175C88 169 88 161 82 155C76 149 69 145 70 137Z"/>
+      </g>
+      <g class="folded-right">
+        <path fill="url(#moment-1-fur)" d="M179 131C194 122 211 128 213 142C217 156 204 166 197 169C200 184 184 199 171 194C153 199 141 184 146 170C144 157 156 148 167 143C165 137 172 132 179 131Z"/>
+        <path fill="#f5b8ce" stroke="none" d="M191 143C186 138 177 143 176 150C173 159 155 164 156 176C155 186 166 188 173 181C177 174 177 166 184 160C191 154 195 148 191 143Z"/>
+      </g>
+    </g>
+    <g class="ear-bow"><path fill="url(#moment-1-ribbon)" d="M73 112C53 95 48 106 50 119C41 132 50 140 67 131L80 123C98 133 105 121 100 111C102 96 89 94 82 108Z"/><circle fill="#fac2d4" cx="75" cy="119" r="8"/></g>
+    <g class="ear-bow"><path fill="url(#moment-1-ribbon)" d="M175 124C166 103 154 109 156 122C147 132 155 142 171 138L180 136C185 153 200 149 201 137C210 126 200 118 188 123Z"/><circle fill="#fac2d4" cx="179" cy="131" r="8"/></g>
+    <g class="gesture-hands" opacity="0">
+      <g class="gesture-hand-left"><use href="#moment-1-mitten" transform="translate(71 200) scale(.88)"/></g>
+      <g class="gesture-hand-right"><use href="#moment-1-mitten" transform="translate(189 200) scale(.88)"/></g>
+    </g>
+    <g class="neck-bow">
+      <path fill="url(#moment-1-ribbon)" d="m120 229-17 21 18 3 8-20 9 20 19-3-18-23Z"/>
+      <path fill="url(#moment-1-ribbon)" d="M122 222C103 203 95 217 100 227C94 241 107 247 124 234L133 235C152 249 166 238 159 226C164 212 151 207 136 222Z"/>
+      <circle fill="#fac2d4" cx="129" cy="228" r="8.3"/>
+      <path d="m114 224 5 3m21 0 6-3" stroke="#d884a6" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
+  <text x="600" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">害羞时，用耳朵躲起来</text>
+  <text x="600" y="440" text-anchor="middle" font-size="16" fill="#aa818a">偷偷看一眼，再靠近一点。</text>
+
+  <rect x="816" y="8" width="360" height="470" rx="22" fill="#fffaf7" stroke="#eacfd4"/>
+  <text x="841" y="47" font-size="13" letter-spacing="1.6" fill="#ad7e8f">03 / YUHA MOMENT</text>
+  <rect x="833" y="68" width="326" height="293" rx="16" fill="#f3eaf0"/>
+  <ellipse cx="996" cy="332" rx="69" ry="8" fill="#e8cdd3"/>
+  <svg id="moment-2" x="880" y="84" width="232" height="268" viewBox="0 0 260 300"><style>#moment-2 .eyes-open,#moment-2 .mouth-normal,#moment-2 .arm{opacity:0}#moment-2 .eyes-angry,#moment-2 .mouth-pout,#moment-2 .gesture-arms,#moment-2 .gesture-hands{opacity:1}</style>
+  <defs>
+    <linearGradient id="moment-2-fur" x1="0" y1="0" x2="0.3" y2="1">
+      <stop stop-color="#fffefd"/><stop offset="1" stop-color="#fff4f0"/>
+    </linearGradient>
+    <linearGradient id="moment-2-ribbon" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#f8b6cd"/><stop offset="1" stop-color="#ec8db1"/>
+    </linearGradient>
+    <g id="moment-2-mitten" fill="url(#moment-2-fur)">
+      <path d="M-8 8C-13 6-14 1-11-3C-12-8-8-12-4-9C-2-13 3-12 5-8C9-10 13-7 12-3C16 1 13 7 9 9C4 12-3 12-8 8Z"/>
+      <path d="m-4-3v3m7-3v3" fill="none" stroke-width="1.8"/>
+    </g>
+  </defs>
+  <g stroke="#786452" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <g class="ear ear-left">
+      <path fill="url(#moment-2-fur)" d="M72 119C50 108 44 92 46 76C40 62 43 44 53 35C51 18 61 7 75 9C95 9 103 24 99 40C105 55 98 69 96 81C99 98 90 111 86 120Z"/>
+      <path fill="#f5b8ce" stroke="none" d="M67 100C60 83 56 66 64 57C73 48 85 52 87 62C89 74 78 95 77 106Z"/>
+    </g>
+    <g class="ear ear-right">
+      <path fill="url(#moment-2-fur)" d="M165 121C173 94 186 80 202 78C217 62 234 66 241 80C256 88 253 108 240 114C236 131 220 134 209 133C196 144 182 135 171 136Z"/>
+      <path fill="#f5b8ce" stroke="none" d="M186 119C193 106 205 94 216 96C228 99 226 111 218 116C211 122 195 123 188 127Z"/>
+    </g>
+    <g class="little-body">
+      <g class="feet"><ellipse fill="url(#moment-2-fur)" cx="113" cy="266" rx="16" ry="17"/>
+      <ellipse fill="url(#moment-2-fur)" cx="146" cy="266" rx="16" ry="17"/></g>
+      <g class="arm arm-left"><path fill="url(#moment-2-fur)" d="M101 222C83 211 68 223 73 237C76 247 90 249 98 240Z"/></g>
+      <g class="arm arm-right"><path fill="url(#moment-2-fur)" d="M157 221C174 212 188 225 182 238C178 248 167 248 159 240Z"/></g>
+      <path fill="url(#moment-2-fur)" d="M99 218C96 233 93 246 103 255C115 267 148 268 159 254C166 244 162 227 159 218Z"/>
+      <path fill="#fff" stroke="none" d="M114 235C115 227 146 227 149 240C152 254 112 258 114 235Z"/>
+    </g>
+    <g class="head">
+      <path fill="url(#moment-2-fur)" d="M131 110C105 107 77 115 63 132C49 146 45 165 47 182C47 210 79 230 129 231C177 232 209 211 211 182C214 159 204 139 188 126C173 115 151 109 131 110Z"/>
+      <g class="cheeks" fill="#f3acc9" stroke="none"><ellipse cx="76" cy="190" rx="12" ry="10"/><ellipse cx="181" cy="190" rx="12" ry="10"/></g>
+      <g class="eyes-open">
+        <g fill="#695642"><ellipse cx="93" cy="174" rx="9" ry="11"/><ellipse cx="164" cy="174" rx="9" ry="11"/></g>
+        <path d="m87 165-5-5m88 5 5-5" fill="none"/>
+        <g fill="#fff" stroke="none"><ellipse cx="95" cy="170" rx="3.1" ry="2.8"/><ellipse cx="162" cy="170" rx="3.1" ry="2.8"/></g>
+        <g fill="#efacc7" stroke="none"><circle cx="94" cy="179" r="2.8"/><circle cx="163" cy="179" r="2.8"/></g>
+      </g>
+      <g class="eyes-closed" opacity="0" fill="none"><path d="M84 175q9 10 18 0m53 0q9 10 18 0"/></g>
+      <g class="eyes-happy" opacity="0" fill="none"><path d="M84 176q9-14 18 0m53 0q9-14 18 0"/></g>
+      <g class="eyes-angry" opacity="0" fill="none"><path d="m84 173 18 4m53 0 18-4" stroke-width="3.6"/><path d="m86 160 12 4m61 0 12-4" stroke-width="2.7"/></g>
+      <ellipse fill="#efa3bf" stroke="none" cx="129" cy="183" rx="5.4" ry="4.4"/>
+      <path class="mouth-normal" d="M116 192q5 10 13 3q8 7 13-3" fill="none" stroke-width="3.6"/>
+      <path class="mouth-pout" opacity="0" d="M126 192q9 3 1 7q8 3-1 6" fill="none" stroke-width="3.2"/>
+      <ellipse class="mouth-surprised" opacity="0" cx="129" cy="198" rx="5" ry="6" fill="#fff" stroke-width="3"/>
+    </g>
+    <g class="gesture-arms" opacity="0" fill="url(#moment-2-fur)">
+      <path class="gesture-arm-left" d="M99 232C81 238 65 231 62 217C60 210 61 202 66 198C70 194 76 196 78 201C80 204 79 208 80 211C82 216 86 219 90 218C93 218 97 217 100 217C109 218 109 229 99 232Z"/>
+      <path class="gesture-arm-right" d="M161 232C179 238 195 231 198 217C200 210 199 202 194 198C190 194 184 196 182 201C180 204 181 208 180 211C178 216 174 219 170 218C167 218 163 217 160 217C151 218 151 229 161 232Z"/>
+    </g>
+    <g class="folded-ears" opacity="0">
+      <g class="folded-left">
+        <path fill="url(#moment-2-fur)" d="M77 121C61 118 45 129 51 145C56 154 66 158 70 160C67 176 80 190 93 188C108 194 121 181 117 167C121 154 107 143 98 139C99 128 89 120 77 121Z"/>
+        <path fill="#f5b8ce" stroke="none" d="M70 137C74 130 84 134 88 141C92 150 107 158 107 170C108 180 98 182 92 175C88 169 88 161 82 155C76 149 69 145 70 137Z"/>
+      </g>
+      <g class="folded-right">
+        <path fill="url(#moment-2-fur)" d="M179 131C194 122 211 128 213 142C217 156 204 166 197 169C200 184 184 199 171 194C153 199 141 184 146 170C144 157 156 148 167 143C165 137 172 132 179 131Z"/>
+        <path fill="#f5b8ce" stroke="none" d="M191 143C186 138 177 143 176 150C173 159 155 164 156 176C155 186 166 188 173 181C177 174 177 166 184 160C191 154 195 148 191 143Z"/>
+      </g>
+    </g>
+    <g class="ear-bow"><path fill="url(#moment-2-ribbon)" d="M73 112C53 95 48 106 50 119C41 132 50 140 67 131L80 123C98 133 105 121 100 111C102 96 89 94 82 108Z"/><circle fill="#fac2d4" cx="75" cy="119" r="8"/></g>
+    <g class="ear-bow"><path fill="url(#moment-2-ribbon)" d="M175 124C166 103 154 109 156 122C147 132 155 142 171 138L180 136C185 153 200 149 201 137C210 126 200 118 188 123Z"/><circle fill="#fac2d4" cx="179" cy="131" r="8"/></g>
+    <g class="gesture-hands" opacity="0">
+      <g class="gesture-hand-left"><use href="#moment-2-mitten" transform="translate(71 200) scale(.88)"/></g>
+      <g class="gesture-hand-right"><use href="#moment-2-mitten" transform="translate(189 200) scale(.88)"/></g>
+    </g>
+    <g class="neck-bow">
+      <path fill="url(#moment-2-ribbon)" d="m120 229-17 21 18 3 8-20 9 20 19-3-18-23Z"/>
+      <path fill="url(#moment-2-ribbon)" d="M122 222C103 203 95 217 100 227C94 241 107 247 124 234L133 235C152 249 166 238 159 226C164 212 151 207 136 222Z"/>
+      <circle fill="#fac2d4" cx="129" cy="228" r="8.3"/>
+      <path d="m114 224 5 3m21 0 6-3" stroke="#d884a6" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
+  <text x="996" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">兔岚咪生气了，哼！</text>
+  <text x="996" y="440" text-anchor="middle" font-size="16" fill="#aa818a">2.35 秒原声 · 鼓脸 · 小拳拳</text>
+</g></svg>
