@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="496" viewBox="0 0 1200 496" role="img" aria-label="兔岚咪的三种小心情：陪伴、害羞和 YUHA 生气了哼"><title>兔岚咪的三种小心情：陪伴、害羞和 YUHA 生气了哼</title><defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e7bdc4" opacity=".26"/></pattern><filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#956078" flood-opacity=".13"/></filter></defs><g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" fill="#705354">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="496" viewBox="0 0 1200 496" role="img" aria-label="Three little moods: company, shyness, and YUHA's hmph"><title>Three little moods: company, shyness, and YUHA's hmph</title><defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e7bdc4" opacity=".26"/></pattern><filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#956078" flood-opacity=".13"/></filter></defs><g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" fill="#705354">
   <rect x="24" y="8" width="360" height="470" rx="22" fill="#fffaf7" stroke="#eacfd4"/>
   <text x="49" y="47" font-size="13" letter-spacing="1.6" fill="#ad7e8f">01 / HELLO, LITTLE HEART</text>
   <rect x="41" y="68" width="326" height="293" rx="16" fill="#fbefea"/>
@@ -78,8 +78,8 @@
     </g>
   </g>
 </svg>
-  <text x="204" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">今天也陪着你</text>
-  <text x="204" y="440" text-anchor="middle" font-size="16" fill="#aa818a">眨眨眼，晃晃耳朵。</text>
+  <text x="204" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">Here to keep you company</text>
+  <text x="204" y="440" text-anchor="middle" font-size="16" fill="#aa818a">A blink. A little ear wiggle.</text>
 
   <rect x="420" y="8" width="360" height="470" rx="22" fill="#fffaf7" stroke="#eacfd4"/>
   <text x="445" y="47" font-size="13" letter-spacing="1.6" fill="#ad7e8f">02 / A LITTLE SHY</text>
@@ -160,8 +160,8 @@
     </g>
   </g>
 </svg>
-  <text x="600" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">害羞时，用耳朵躲起来</text>
-  <text x="600" y="440" text-anchor="middle" font-size="16" fill="#aa818a">偷偷看一眼，再靠近一点。</text>
+  <text x="600" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">Hide behind those ears</text>
+  <text x="600" y="440" text-anchor="middle" font-size="16" fill="#aa818a">A little peek. A little closer.</text>
 
   <rect x="816" y="8" width="360" height="470" rx="22" fill="#fffaf7" stroke="#eacfd4"/>
   <text x="841" y="47" font-size="13" letter-spacing="1.6" fill="#ad7e8f">03 / YUHA MOMENT</text>
@@ -242,6 +242,6 @@
     </g>
   </g>
 </svg>
-  <text x="996" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">兔岚咪生气了，哼！</text>
-  <text x="996" y="440" text-anchor="middle" font-size="16" fill="#aa818a">2.35 秒原声 · 鼓脸 · 小拳拳</text>
+  <text x="996" y="406" text-anchor="middle" font-size="21" font-weight="600" fill="#986078">Toramui is upset. Hmph!</text>
+  <text x="996" y="440" text-anchor="middle" font-size="16" fill="#aa818a">2.35s voice · pout · tiny paws</text>
 </g></svg>

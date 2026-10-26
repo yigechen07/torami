@@ -21,7 +21,25 @@ const star = (x, y, size = 1) => `<path transform="translate(${x} ${y}) scale(${
 function svg(width, height, title, content) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img" aria-label="${title}"><title>${title}</title><defs><pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#e7bdc4" opacity=".26"/></pattern><filter id="shadow" x="-30%" y="-30%" width="160%" height="170%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#956078" flood-opacity=".13"/></filter></defs><g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" fill="#705354">${content}</g></svg>\n`;
 }
-fs.writeFileSync(path.join(output, 'hero.svg'), svg(1200, 620, 'TORAMI — 兔岚咪与 YUHA 的桌面小心动', `
+// Keep the original Chinese artwork and publish English artwork by default.
+const english = new Map([
+  ['TORAMI — 兔岚咪与 YUHA 的桌面小心动', 'TORAMI — a tiny desktop heart for YUHA'],
+  ['把一点点可爱，留在每天的桌面上。', 'A little cuteness for your everyday.'],
+  ['macOS · 中文 / 한국어', 'macOS · Chinese / Korean UI'],
+  ['兔岚咪的三种小心情：陪伴、害羞和 YUHA 生气了哼', 'Three little moods: company, shyness, and YUHA\'s hmph'],
+  ['今天也陪着你', 'Here to keep you company'],
+  ['眨眨眼，晃晃耳朵。', 'A blink. A little ear wiggle.'],
+  ['害羞时，用耳朵躲起来', 'Hide behind those ears'],
+  ['偷偷看一眼，再靠近一点。', 'A little peek. A little closer.'],
+  ['兔岚咪生气了，哼！', 'Toramui is upset. Hmph!'],
+  ['2.35 秒原声 · 鼓脸 · 小拳拳', '2.35s voice · pout · tiny paws'],
+]);
+function writeArtwork(name, content) {
+  fs.writeFileSync(path.join(output, `${name}.zh-CN.svg`), content);
+  for (const [original, translated] of english) content = content.replaceAll(original, translated);
+  fs.writeFileSync(path.join(output, `${name}.svg`), content);
+}
+writeArtwork('hero', svg(1200, 620, 'TORAMI — 兔岚咪与 YUHA 的桌面小心动', `
   <rect width="1200" height="620" rx="30" fill="#fff8f2"/>
   <rect width="1200" height="620" rx="30" fill="url(#dots)"/>
   <rect x="20" y="20" width="1160" height="580" rx="20" fill="none" stroke="#e9c6cd"/>
@@ -53,7 +71,7 @@ const cards = [
   { x: 420, name: '02 / A LITTLE SHY', label: '害羞时，用耳朵躲起来', note: '偷偷看一眼，再靠近一点。', pose: 'shy', color: '#f9e8ee' },
   { x: 816, name: '03 / YUHA MOMENT', label: '兔岚咪生气了，哼！', note: '2.35 秒原声 · 鼓脸 · 小拳拳', pose: 'hmph', color: '#f3eaf0' },
 ];
-fs.writeFileSync(path.join(output, 'moments.svg'), svg(1200, 496, '兔岚咪的三种小心情：陪伴、害羞和 YUHA 生气了哼', cards.map((c, index) => `
+writeArtwork('moments', svg(1200, 496, '兔岚咪的三种小心情：陪伴、害羞和 YUHA 生气了哼', cards.map((c, index) => `
   <rect x="${c.x}" y="8" width="360" height="470" rx="22" fill="#fffaf7" stroke="#eacfd4"/>
   <text x="${c.x + 25}" y="47" font-size="13" letter-spacing="1.6" fill="#ad7e8f">${c.name}</text>
   <rect x="${c.x + 17}" y="68" width="326" height="293" rx="16" fill="${c.color}"/>
